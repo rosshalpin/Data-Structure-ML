@@ -24,6 +24,8 @@ Final Validation Loss 0.16442587226629257
 Mean Training Accuracy :  0.8881981247104704  
 Mean Validation Accuracy :  0.8933929995894431  
 
+# Hidden Data Structure
+
 ![png](Graphs/Structure/output_2_1.png) ![png](Graphs/Structure/output_2_2.png)
 
 ![png](Graphs/Structure/output_2_3.png) ![png](Graphs/Structure/output_2_4.png)
