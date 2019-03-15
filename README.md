@@ -1,4 +1,4 @@
-# Data-Structure-ML
+# Training ML algorithm
 Supervised machine learning
 
 ### Objective
@@ -8,10 +8,13 @@ Given a balanced and labeled training set of 100,000 inputs with 8 features, att
 ![png](Graphs/Train/output_0_1.png) ![png](Graphs/Train/output_0_2.png)  
   
 ### Final model scores after 100 epochs. 
-|         | precision |   recall | f1-score  | support|
+|label         | precision |   recall | f1-score  | support|
 | ------------- |:-------------:| -----:| -----:| -----:|
 |0.0   |    0.94  |    0.95  |    0.95  |    4872|
 1.0    |   0.95    |  0.95   |   0.95  |    5128|
+
+|         | precision |   recall | f1-score  | support|
+| ------------- |:-------------:| -----:| -----:| -----:|
 micro avg   |    0.95   |  0.95   |   0.95  |   10000|
 macro avg   |    0.95   |   0.95   |   0.95  |   10000|
 weighted avg   |    0.95  |    0.95   |   0.95  |   10000|
