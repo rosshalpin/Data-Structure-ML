@@ -16,13 +16,14 @@ micro avg   |    0.95   |  0.95   |   0.95  |   10000|
 macro avg   |    0.95   |   0.95   |   0.95  |   10000|
 weighted avg   |    0.95  |    0.95   |   0.95  |   10000|
 
-Final Training Accuracy 0.9515999995172024  
-Final Training Loss 0.1549298545345664  
-Final Validation Accuracy 0.9485999941825867  
-Final Validation Loss 0.16442587226629257  
-
-Mean Training Accuracy :  0.8881981247104704  
-Mean Validation Accuracy :  0.8933929995894431  
+|Type         | Score | 
+| ------------- |:-------------:|
+|Final Training Accuracy |  0.9515999995172024|
+|Final Training Loss |  0.1549298545345664|
+|Final Validation Accuracy |  0.9485999941825867|
+|Final Validation Loss |  0.16442587226629257|
+|Mean Training Accuracy |  0.8881981247104704|  
+|Mean Validation Accuracy |  0.8933929995894431|  
 
 # Hidden Data Structure
 
