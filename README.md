@@ -4,11 +4,8 @@ Supervised machine learning
 ### Objective
 Given a balanced and labeled training set of 100,000 inputs with 8 features, attempt to correctly label the given unlabeled test set of 10,000 inputs. 
 
-### Model Accuracy of training and validation sets over 100 epochs
-![png](Graphs/Train/output_0_1.png)  
-
-### Model Loss of training and validation sets over 100 epochs.
-![png](Graphs/Train/output_0_2.png)  
+### Model Accuracy and Loss of training and validation sets over 100 epochs
+![png](Graphs/Train/output_0_1.png) ![png](Graphs/Train/output_0_2.png)  
   
 ### Final model scores after 100 epochs. 
 |         | precision |   recall | f1-score  | support|
@@ -27,14 +24,8 @@ Final Validation Loss 0.16442587226629257
 Mean Training Accuracy :  0.8881981247104704  
 Mean Validation Accuracy :  0.8933929995894431  
 
-![png](Graphs/Structure/output_1_0.png)
+![png](Graphs/Structure/output_2_1.png) ![png](Graphs/Structure/output_2_2.png)
+
+![png](Graphs/Structure/output_2_3.png) ![png](Graphs/Structure/output_2_4.png)
 
 ![png](Graphs/Structure/output_2_0.png)
-
-![png](Graphs/Structure/output_2_1.png)
-
-![png](Graphs/Structure/output_2_2.png)
-
-![png](Graphs/Structure/output_2_3.png)
-
-![png](Graphs/Structure/output_2_4.png)
